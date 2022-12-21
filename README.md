@@ -1,10 +1,26 @@
-- 👋 Hi, I’m PraveenTech005
-- 👀 I’m Interested In Learn Something New And Achieve Intermediate Level In A Week 
+# Hi, I’m [PRAVEEN](https://github.com/PraveenTech005) 
+
+- 👀 I’m Interested In Learn Something New And Achieve Intermediate Level In A Week
 - 🌱 I’m Currently Learning Some Programming Languages
 - 💞️ I’m Looking To Collaborate On Learn With Me
-- 📫 How To Reach Me ? - Just Chat With Me On Telegram - https://t.me/PRAVEEN_TECH005 - And Please Be Your First Chat Is GITHUB, So I Can Identify
 
-<!---
-PraveenTech005/PraveenTech005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- A Student Of Studying At **"Diploma In Electrical And Electronics Engineering"**.
+
+- I'm Active At
+<p align="center">
+  <a href="https://t.me/PRAVEEN_TECH005">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,androidstudio,arduino,autocad,bash,git,github,linux,md,vscode,idea&theme=dark&perline=5&align=center" />
+  </a>
+</p>
+</br>
+
+# Connect With Me
+
+<div align="center" class="Telegram">
+  <a href="https://t.me/PRAVEEN_TECH005"><img src="https://github.com/PraveenTech005/PRAVEEN-LOGO/blob/main/Telegram LOGO.png"><h3>TELEGRAM</h3></a>
+</div>
+<hr>
+<div align="center" class="Gmail">
+  <a href="mailto:PraveenTech005@gmail.com"><img src="https://github.com/PraveenTech005/PRAVEEN-LOGO/blob/main/G LOGO.png"><h3>GMAIL</h3></a>
+</div>
+<hr>
