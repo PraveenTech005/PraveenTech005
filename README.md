@@ -7,20 +7,18 @@
 - A Student Of Studying At **"Diploma In Electrical And Electronics Engineering"**.
 
 - I'm Active At
-<p align="center">
+<p align="left-justify">
   <a href="https://t.me/PRAVEEN_TECH005">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,androidstudio,arduino,autocad,bash,git,github,linux,md,vscode,idea&theme=dark&perline=5&align=center" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,androidstudio,arduino,autocad,bash,git,github,linux,md,vscode,idea&theme=dark&perline=6&align=center" />
   </a>
 </p>
 </br>
 
-# Connect With Me
+## Connect With Me
 
-<div align="center" class="Telegram">
-  <a href="https://t.me/PRAVEEN_TECH005"><img src="https://github.com/PraveenTech005/PRAVEEN-LOGO/blob/main/Telegram LOGO.png"><h3>TELEGRAM</h3></a>
+<div align="center" class="line1">
+  <a href="https://t.me/PRAVEEN_TECH005"><img src="https://github.com/PraveenTech005/PRAVEEN-LOGO/blob/main/Telegram LOGO.png"></a>
+  <a href="mailto:PraveenTech005@gmail.com"><img src="https://github.com/PraveenTech005/PRAVEEN-LOGO/blob/main/G LOGO.png"></a>
 </div>
 <hr>
-<div align="center" class="Gmail">
-  <a href="mailto:PraveenTech005@gmail.com"><img src="https://github.com/PraveenTech005/PRAVEEN-LOGO/blob/main/G LOGO.png"><h3>GMAIL</h3></a>
-</div>
-<hr>
+
