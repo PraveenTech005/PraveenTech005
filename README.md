@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PraveenTech005
+- 👋 Hi, I’m PraveenTech005
 - 👀 I’m Interested In Learn Something New And Achieve Intermediate Level In A Week 
 - 🌱 I’m Currently Learning Some Programming Languages
 - 💞️ I’m Looking To Collaborate On Learn With Me
