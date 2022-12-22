@@ -1,10 +1,10 @@
 # Hi, I’m [PRAVEEN](https://github.com/PraveenTech005) 
 
-- 👀 I’m Interested In Learn Something New And Achieve Intermediate Level In A Week
-- 🌱 I’m Currently Learning Some Programming Languages
-- 💞️ I’m Looking To Collaborate On Learn With Me
+- 👀 I’m Interested In Learning Something New And Achieve Intermediate Level In That Topic In A Week.
+- 🌱 I’m Currently Learning Some Programming Languages.
+- 💞️ I’m Looking To Collaborate On Learn With Me.
 
-- A Student Of Studying At **"Diploma In Electrical And Electronics Engineering"**.
+- I'm Still A Student Studying At **"Diploma In Electrical And Electronics Engineering"** In ***INDIA***.
 
 - I'm Active At
 <p align="left-justify">
