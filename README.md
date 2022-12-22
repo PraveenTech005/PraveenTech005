@@ -17,8 +17,7 @@
 ## Connect With Me
 
 <div align="center" class="line1">
-  <a href="https://t.me/PRAVEEN_TECH005"><img src="https://github.com/PraveenTech005/PRAVEEN-LOGO/blob/main/Telegram LOGO.png"></a>
-  <a href="mailto:PraveenTech005@gmail.com"><img src="https://github.com/PraveenTech005/PRAVEEN-LOGO/blob/main/G LOGO.png"></a>
+  <a href="https://t.me/PRAVEEN_TECH005"><img src="https://github.com/PraveenTech005/PRAVEEN-LOGO/blob/main/readme/Telegram LOGO.png"></a>
+  <a href="mailto:PraveenTech005@gmail.com"><img src="https://github.com/PraveenTech005/PRAVEEN-LOGO/blob/main/readme/G LOGO.png"></a>
 </div>
 <hr>
-
