@@ -1,4 +1,4 @@
-# Hi, I’m [PRAVEEN](https://github.com/PraveenTech005) 
+# Hi, I’m [PRAVEEN](https://github.com/PraveenTech005)
 
 - 👀 I’m Interested In Learning Something New And Achieve Intermediate Level In That Topic In A Week.
 - 🌱 I’m Currently Learning Some Programming Languages.
