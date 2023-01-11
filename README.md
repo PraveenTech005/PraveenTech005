@@ -4,7 +4,7 @@
 - 🌱 I’m Currently Learning Some Programming Languages.
 - 💞️ I’m Looking To Collaborate On Learn With Me.
 
-- I'm Still A Student Studying At **"Diploma In Electrical And Electronics Engineering"** In ***INDIA***.
+- I'm Still A Student Studying At **"Diploma In Electrical And Electronics Engineering"** In ***TAMIL NADU, INDIA***.
 
 - I'm Active At
 <p align="left-justify">
