@@ -9,7 +9,7 @@
 - I'm Active At
 <p align="left-justify">
   <a href="https://t.me/PRAVEEN_TECH005">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,py,androidstudio,arduino,autocad,bash,git,github,linux,md,vscode,idea&theme=dark&perline=6&align=center" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,py,arduino,autocad,bash,github,linux,md,vscode,idea&theme=dark&perline=6&align=center" />
   </a>
 </p>
 </br>
