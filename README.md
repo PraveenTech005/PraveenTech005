@@ -8,7 +8,7 @@
 - Waiting For Results...
 - I Know Some Programming Languages Like,
 <p align="left-justify">
-  <a href="https://t.me/PRAVEEN_TECH005">
+  <a href="https://t.me/PRAVEENTECH005">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,arduino,autocad,bash,github,linux,md,vscode,idea&theme=dark&perline=8&align=center" />
   </a>
 </p>
