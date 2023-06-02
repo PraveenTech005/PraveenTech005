@@ -4,8 +4,8 @@
 - 🌱 I’m Currently Learning Some Programming Languages.
 - 💞️ I’m Looking For Collaboration In Learn With Me.
 
-- I'm Still A Student Studying At **"Diploma In Electrical And Electronics Engineering"** In ***TAMIL NADU, INDIA***.
-
+- I'm A Student Studied At **"Diploma In Electrical And Electronics Engineering"** In ***TAMIL NADU, INDIA***.
+- Waiting For Results...
 - I'm Know Some Programming Languages Like,
 <p align="left-justify">
   <a href="https://t.me/PRAVEEN_TECH005">
