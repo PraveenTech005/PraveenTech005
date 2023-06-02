@@ -2,11 +2,11 @@
 
 - 👀 I’m Interested In Learning Something New And Achieve Intermediate Level In That Topic In A Week.
 - 🌱 I’m Currently Learning Some Programming Languages.
-- 💞️ I’m Looking For Collaboration In Learn With Me.
+- 💞️ I’m Looking For Someone Who Can Collaborate With Me To Learn New Stuffs.
 
 - I'm A Student Studied At **"Diploma In Electrical And Electronics Engineering"** In ***TAMIL NADU, INDIA***.
 - Waiting For Results...
-- I'm Know Some Programming Languages Like,
+- I Know Some Programming Languages Like,
 <p align="left-justify">
   <a href="https://t.me/PRAVEEN_TECH005">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,arduino,autocad,bash,github,linux,md,vscode,idea&theme=dark&perline=8&align=center" />
