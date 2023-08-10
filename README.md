@@ -6,10 +6,10 @@
 
 - I'm A Student Studied At **"Diploma In Electrical And Electronics Engineering"** In ***TAMIL NADU, INDIA***.
 - Waiting For Results...
-- I Know Some Programming Languages Like,
+- I Know Some Programming Languages Like And Tools,
 <p align="left-justify">
   <a href="https://t.me/PRAVEENTECH005">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,arduino,autocad,bash,github,linux,md,vscode,idea&theme=dark&perline=8&align=center" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,py,arduino,autocad,bash,github,linux,md,vscode,idea&theme=dark&perline=8&align=center" />
   </a>
 </p>
 </br>
