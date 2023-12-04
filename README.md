@@ -14,7 +14,7 @@
 
 ## Connect With Me
 
-<div align="center" class="line1">
+<div align="center">
   <a href="https://t.me/PRAVEENTECH005"><img src="https://user-images.githubusercontent.com/92732706/221881174-df2bae54-1ce8-4098-8501-c4488c46b79c.png" width="50"></a>
   <a href="mailto:PraveenTech005@gmail.com"><img src="https://user-images.githubusercontent.com/92732706/221880697-15e62fc8-1d54-4594-bc3a-b57d975ff5f7.png" width="50"></a>
 </div>
