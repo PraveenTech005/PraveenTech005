@@ -8,7 +8,7 @@
 - As I am interested in programming languages, I am pursuing a **"Bachelor of Engineering in Computer Science"**.
 - I Know Some Programming Languages And Tools,
 <p align="left-justify">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,py,react,bash,arduino,autocad,github,linux,md,vscode,idea&theme=dark&perline=8&align=center" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,py,react,nodejs,express,mongodb,bash,arduino,autocad,github,linux,md,vscode,idea&theme=dark&perline=8&align=center" />
 </p>
 </br>
 
