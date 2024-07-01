@@ -4,7 +4,7 @@
 - 🌱 I’m Currently Learning Some Programming Languages.
 - 💞️ I’m Looking For Someone Who Can Collaborate With Me To Learn New Stuff.
 
-- I'm A Student Studied At **"Diploma In Electrical And Electronics Engineering"** In ***TAMIL NADU, INDIA***.
+- I'm Recently Finished My Diploma At **"Diploma In Electrical And Electronics Engineering"** In ***TAMIL NADU, INDIA***.
 - As I am interested in programming languages, I am pursuing a **"Bachelor of Engineering in Computer Science"**.
 - I Know Some Programming Languages And Tools,
 <p align="left-justify">
