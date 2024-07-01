@@ -1,5 +1,12 @@
 <h1 align="left">Hello 🌏, I'm Praveen</h1>
 
+## 🌟 About Me
+Greetings! I'm Praveen, a passionate web and mobile developer who loves turning ideas into reality with code. I have a knack for problem-solving and a strong interest in creating dynamic and responsive user interfaces with React.js.
+
+- 🌱 Currently learning: React Native App Development.
+- 🔭 Working on: A cross-platform mobile app using React Native and Expo
+- 💬 Ask me about: React.js, React Native, and modern JavaScript framework
+
 ###
 
 <div align="center" >
@@ -49,20 +56,11 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Praveentech005/Praveentech005/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Praveentech005/count.svg?"  />
+  <a href="https://t.me/PRAVEENTECH005">
+    <img src="https://github.com/PraveenTech005/PraveenTech005/blob/main/img/tele.png" width="50" height="50"/>
+  </a>
+  <a href="mailto:praveentech005@gmail.com">
+    <img src="https://github.com/PraveenTech005/PraveenTech005/blob/main/img/gmail.png" width="50" height="50"/>
+  </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="40" alt="telegram logo"  />
-</div>
-
-###
