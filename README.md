@@ -1,7 +1,7 @@
 <h1 align="left">Hello 🌏, I'm Praveen</h1>
 
 ## 🌟 About Me
-Greetings! I'm Praveen, a passionate web and mobile developer who loves turning ideas into reality with code. I have a knack for problem-solving and a strong interest in creating dynamic and responsive user interfaces with React.js.
+Greetings! I'm Praveen, a passionate web and app developer who loves turning ideas into reality with code. I have a knack for problem-solving and a strong interest in creating dynamic and responsive user interfaces with React.js.
 
 - 🌱 Currently learning: React Native App Development.
 - 🔭 Working on: A cross-platform mobile app using React Native and Expo
