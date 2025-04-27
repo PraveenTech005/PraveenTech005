@@ -30,4 +30,8 @@
 
 ###
 
+### GitHub contributions
+
+![snake gif](https://github.com/PraveenTech005/PraveenTech005/blob/output/github-contribution-grid-snake.svg)
+
 
