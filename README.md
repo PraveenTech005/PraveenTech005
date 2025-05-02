@@ -26,7 +26,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PraveenTech005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prraveentech005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:PraveenTech005@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PraveenTech005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveentech005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:PraveenTech005@gmail.com) 
 
 ###
 
